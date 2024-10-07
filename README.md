@@ -17,7 +17,7 @@ Learning platforms or tools that aim to improve accessibility and usability.
 
 📫 How to Reach Me...
 LinkedIn: Juan Chavez
-Email: juan.chavez@example.com
+Email: Juanitochambiando@gmail.com
 
 <!---
 Juanblink/Juanblink is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
